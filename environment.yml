@@ -1,0 +1,11 @@
+name: march_madness
+channels:
+    - conda-forge
+dependencies:
+    - numpy
+    - matplotlib
+    - pandas
+    - pillow
+    - seaborn
+    - statsmodels
+    - scikit-learn
